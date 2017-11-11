@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AngelConst_Tests' do
+  pod 'AngelConst', :path => '../'
+  
+  
+end
