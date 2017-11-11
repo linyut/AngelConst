@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AngelConst'
-  s.version          = '0.1.0'
+  s.version          = '0.1.2'
   s.summary          = '常用的宏定义.'
 
 # This description is used to generate tags and improve search results.
