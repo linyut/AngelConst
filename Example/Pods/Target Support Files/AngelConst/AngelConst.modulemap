@@ -1,0 +1,6 @@
+framework module AngelConst {
+  umbrella header "AngelConst-umbrella.h"
+
+  export *
+  module * { export * }
+}
